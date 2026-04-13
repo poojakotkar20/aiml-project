@@ -1,4 +1,4 @@
-# Day 7 Report – Regression on Real Dataset & Residual Analysis
+# Day 8 Report – Regression on Real Dataset & Residual Analysis
 
 ## Technical Summary
 
