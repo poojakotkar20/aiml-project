@@ -36,3 +36,11 @@ This is known as diminishing returns, where adding more trees does not justify t
 ##  Additional Insight
 
 Random Forest provides built-in feature importance, making it both powerful and interpretable for real-world applications.
+
+## Model Comparison(Given in Checklist)
+
+The Random Forest model achieved a higher R² score compared to Linear Regression.
+
+This is because Random Forest can capture complex, non-linear relationships in the data, while Linear Regression is limited to linear patterns.
+
+This demonstrates the advantage of ensemble models in handling real-world datasets.
