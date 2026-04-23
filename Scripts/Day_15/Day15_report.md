@@ -10,7 +10,7 @@ Additionally, I learned the importance of the init='k-means++' parameter, which 
 
 ---
 
-## ◈ Conceptual Reflection
+## Conceptual Reflection
 
 If we identify a cluster of users who attend late-night events and prefer high-intensity activities, we can use this information to personalize recommendations in the MeetMux application.
 
@@ -18,7 +18,7 @@ For example, the system can recommend night-time sports events, group activities
 
 ---
 
-## ◈ Key Takeaways
+## Key Takeaways
 
 * K-Means is useful for discovering hidden patterns in unlabeled data.
 * The Elbow Method helps in selecting the optimal number of clusters.
